@@ -39,7 +39,7 @@ toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 
 Örnek :
 
-Adı : kemal
+Adı : Kemal
 
 Maaşı : 2000.0
 
